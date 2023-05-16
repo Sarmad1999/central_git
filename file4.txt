@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello my name is sarmad
+=======
+and i am a student
+>>>>>>> branch1
